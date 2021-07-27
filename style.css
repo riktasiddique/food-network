@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-section{
+    background-color: black;
+    color: #E5E5E5;
+    padding: 10px 10px;
+}
+li{
+    margin: 15px 15px;
+}
+ul{
+    text-align: center;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;  
+    margin: 0px 395px; 
+}
+section h1{
+    font-size: 40px;
+}
+section p{
+    color: gray;
+}
+.orange-color{
+    color: #F29846;
+}
+.top-part{
+    display: flex;
+    background-color: #E5E5E5;
+    margin-bottom: 80px;
+}
+.half-width{
+    width: 50%;
+    margin: 20px 20px;
+}
+.half-width img{
+    width: 100%;
+}
+.left-content{
+    margin: 110px 0px;
+    text-align: justify;
+    margin-left: 110px;
+}
+button{
+    background-image:
+    linear-gradient(#FBA24F, #FF1E1E);
+    border: none;
+    padding: 15px 15px;
+    border-radius: 10px;
+
+}
+.middle-section{
+    background-image: url('media/shapes/Frame\ 59.jpg');
+    background-repeat: no-repeat;
+    margin-bottom: ;
+}
+.middle-part img{
+    width: 60%;
+    /* margin: 10px 0px; */
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.about-section{
+    margin-top: 105px;
+    padding: 5px 80px;
+    text-align: justify;
+    margin-bottom: 80px;
+}
+.recipes-section{
+    display: flex;
+    margin: 40px 70px;
+}
+.text-center{
+    text-align: justify;
+    text-align: center;
+}
+.recipe-card{
+    width: 32%;
+    box-shadow: 10px 10px 110px gray;
+    margin: 5px 20px;
+    border-radius: 5px;
+    padding: 20px 20px;
+}
+.recipe-card img{
+    width: 100%;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: #E5E5E5;
+    padding: 10px 10px;
+    padding-bottom: 40px;
+}
